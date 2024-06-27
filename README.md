@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shritij Reddy</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/shritij-reddy-540835213/">LinkedIn</a>  
+<a href="mathians1@gmail.com">Email</a>
 LinkedIn - https://www.linkedin.com/in/shritij-reddy-540835213/<br/>
 Email - mathians1@gmail.com</p>
 

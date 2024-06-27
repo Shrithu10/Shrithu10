@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrithu10&show_icons=true&locale=en&layout=compact" alt="Shritij Reddy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrithu10&hide=contribs,prs&show_icons=true&locale=en" alt="Shritij Reddy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrithu10&hide=rankshow_icons=true&locale=en" alt="Shritij Reddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrithu10&" alt="Shritij Reddy" /></p>

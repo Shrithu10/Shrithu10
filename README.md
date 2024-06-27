@@ -5,9 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shritij-reddy-540835213/">LinkedIn</a>  
+  
 <a href="mathians1@gmail.com">Email</a>
-LinkedIn - https://www.linkedin.com/in/shritij-reddy-540835213/<br/>
-Email - mathians1@gmail.com</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrithu10&show_icons=true&locale=en&layout=compact" alt="Shritij Reddy" /></p>
 

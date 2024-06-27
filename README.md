@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammed Raziullah Ansari</h1>
-<h3 align="center">A Full-Stack Developer & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shritij Reddy</h1>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razi17571&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed Raziullah Ansari" /> </p>
-
-- 🔭 I’m currently working on **Career Guidance Web Application**
+<p align="left"> <img src="" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

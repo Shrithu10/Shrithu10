@@ -13,11 +13,7 @@
   </a>
 </p>
 
----
-
-### 🧭 About Me
-
-Always exploring everything tech, design, and innovation.
+<p align="center"><i>Always exploring everything tech, design, and innovation.</i></p>
 
 ---
 
@@ -69,8 +65,8 @@ Always exploring everything tech, design, and innovation.
 
 #### 📋 Detailed Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&hide_rank=true&theme=radical&hide_border=true" alt="Shritij's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrithu10&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=gruvbox&hide_border=true" alt="Shritij's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrithu10&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 #### 🏆 Achievements
@@ -80,30 +76,10 @@ Always exploring everything tech, design, and innovation.
 
 ---
 
-### 📈 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shritij-reddy-540835213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mathians1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shritijreddy.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  <img src="https://github.com/Shrithu10/Shrithu10/blob/output/github-contribution-grid-snake2.svg" alt="GitHub contribution grid snake animation">
 </p>
 
 ---

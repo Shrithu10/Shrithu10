@@ -13,19 +13,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%239F00FF&size=22&center=true&vCenter=true&lines=Passionate+about+coding+and+design.;Always+learning+something+new!;Welcome+to+my+GitHub!" />
-</p>
-
 ---
 
-### 🧑‍💻 About Me
+### 🧭 About Me
 
-- 🌱 I’m currently learning **React** and diving deeper into **Machine Learning**
-- 💼 Aspiring to create innovative solutions in **tech and design**
-- 👯 I’m open to collaborating on projects in **web development, AI,** and **open-source** initiatives
-- 📝 I publish articles on various tech topics [on Medium](https://shritijreddy.medium.com/).
-- ⚡ Fun Fact: I’m a huge **science fiction** fan and love exploring futuristic concepts!
+Always exploring everything tech, design, and innovation.
 
 ---
 
@@ -68,18 +60,6 @@
 
 ---
 
-### 📚 Articles & Writing
-
-<p align="center">
-  I write about **technology, coding, and design** on Medium! Check out my latest articles below:
-</p>
-
-- [Exploring the Power of React](https://shritijreddy.medium.com/)
-- [Machine Learning Basics](https://shritijreddy.medium.com/)
-- [Creating User-Centered Designs](https://shritijreddy.medium.com/)
-
----
-
 ### 📊 GitHub Stats
 
 #### 📈 Summary Stats
@@ -100,19 +80,14 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Contribution Snake
 
 <p align="center">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Shrithu10/Shrithu10/main/assets/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-#### 🖇️ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrithu10&theme=github-compact" alt="Activity Graph"/>
 </p>
 
 ---

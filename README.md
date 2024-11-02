@@ -80,7 +80,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shrithu10/<repository-name>/main/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
+    ![Snake animation](https://github.com/Shrithu10/Shrithu10/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---

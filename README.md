@@ -77,14 +77,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-    ![Snake animation](https://github.com/Shrithu10/Shrithu10/blob/output/github-contribution-grid-snake.svg)
-</p>
-
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/Shrithu10/count.svg" alt="Visitor's Count" />
   <br/>

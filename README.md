@@ -1,5 +1,8 @@
-<h1 align="center">Hey there! 👋 I'm Shritij Reddy</h1>
-<h3 align="center">Developer | Designer | Tech Enthusiast</h3>
+<h1 align="center">Shritij Reddy</h1>
+
+<p align="center">
+  Building scalable AI systems that bridge research and real-world impact
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shritij-reddy-540835213/" target="_blank">
@@ -13,72 +16,96 @@
   </a>
 </p>
 
-<p align="center"><i>Always exploring everything tech, design, and innovation.</i></p>
+---
+
+## About
+
+I'm an applied AI engineer focused on building production-grade intelligent systems — from multi-agent architectures and LLM orchestration to speech pipelines and scalable backends.
+
+Currently working on applied AI research and systems at Amazon. Previously built and shipped AI products at Techolution and contributed to academic research at IIT Hyderabad, with a presentation at CEEC 2024 (San Diego State University).
+
+I operate at the intersection of AI systems engineering, backend infrastructure, and research — with a track record of winning competitive hackathons and shipping systems that work at scale.
 
 ---
 
-### 🛠️ Technologies & Tools
+## What I Do
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+**AI Systems & Multi-Agent Architecture** — Designing orchestration layers, agent pipelines, and LLM-powered workflows that are reliable and production-ready.
+
+**Speech & Language Pipelines** — Building end-to-end TTS, STT, and VAD systems with focus on latency, accuracy, and real-world deployment.
+
+**Backend & Scalable Infrastructure** — Designing APIs and distributed systems that hold up under real load with clean architecture.
+
+**Research-to-Product** — Translating academic methods into deployable systems — from lean startup frameworks to AI-native applications.
+
+---
+
+## Experience
+
+**Applied Scientist Intern — Amazon**
+*Jan 2026 – Present*
+- Working on applied AI systems and scalable solutions across Amazon's science org
+- Focused on bridging research-stage methods with production-ready implementations
+
+**Generative AI Intern — Techolution**
+*May 2025 – Jan 2026*
+- Built end-to-end speech pipelines (TTS, STT, VAD) with measurable latency improvements
+- Designed and implemented multi-agent systems with LLM orchestration for real-world workflows
+- Built RAG pipelines and backend APIs serving production traffic
+- Improved system reliability and reduced response latency across core services
+
+**Research Intern — IIT Hyderabad**
+*Sep 2023 – Jul 2024*
+- Conducted research on Lean Startup methodology and Design Thinking applied to deep-tech ventures
+- Presented findings at CEEC 2024, San Diego State University
+
+**Intern — T-Hub | AIC IIIT Kottayam | RA Services**
+*2022 – 2024*
+- Exposure across startup ecosystems, innovation programs, operations, and strategic partnerships
+- Supported early-stage ventures across incubation and growth phases
+
+---
+
+## Tech Stack
+
+**Languages** — Python, Java, C, C++, JavaScript, HTML, CSS
+
+**AI / ML** — TensorFlow, PyTorch, Hugging Face, LangChain, Google ADK, RAG, Multi-Agent Systems, Speech Processing (TTS / STT / VAD), Prompt Engineering
+
+**Cloud** — AWS (EC2, S3, CloudFront, VPC, Lex, EBS, EFS, DynamoDB), GCP
+
+**Full Stack** — React, Node.js, Express.js, MongoDB, REST APIs, FastAPI
+
+**Databases** — SQL, MongoDB, Neo4j
+
+**Tools** — Git, Docker, Figma, Nvivo, Citavi
+
+---
+
+## Certifications
+
+- Google Professional Cloud Developer — Google Cloud
+- Google Professional Machine Learning Engineer — Google Cloud
+- Google Generative AI Leader — Google Cloud
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrithu10&hide_border=true&theme=default" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrithu10&theme=minimal&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## Achievements
 
-#### 📈 Summary Stats
-<a href="https://github.com/Shrithu10">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrithu10&theme=gruvbox&hide_border=true" alt="Shritij's GitHub Stats Graph"/>
-</a>
-
-#### 📋 Detailed Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=gruvbox&hide_border=true" alt="Shritij's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrithu10&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-#### 🏆 Achievements
-<p align="center">
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=Shrithu10&column=7&theme=gruvbox&no-frame=true" alt="Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Shrithu10/count.svg" alt="Visitor's Count" />
-  <br/>
-  <i>Thanks for stopping by! Let's create something amazing together.</i>
-</p>
+- **SIH 2024 Winner** — Smart India Hackathon, national-level competition
+- **3x National Hackathon Winner** — Consistent top finishes across AI/ML and systems tracks
+- **CEEC 2024** — Research presentation at San Diego State University
+- **450+ LeetCode Problems** — Strong foundations in DSA and problem solving

@@ -54,12 +54,12 @@ I operate at the intersection of AI systems engineering, backend infrastructure,
 - Built RAG pipelines and backend APIs serving production traffic
 - Improved system reliability and reduced response latency across core services
 
-**Research Intern — IIT Hyderabad**
+**Research Intern — IIT Hyderabad (Department of Entrepreneurship and Management)**
 *Sep 2023 – Jul 2024*
 - Conducted research on Lean Startup methodology and Design Thinking applied to deep-tech ventures
 - Presented findings at CEEC 2024, San Diego State University
 
-**Intern — T-Hub | AIC IIIT Kottayam | RA Services**
+**Corporate Innovation Intern — T-Hub | AIC IIIT Kottayam | RA Services**
 *2022 – 2024*
 - Exposure across startup ecosystems, innovation programs, operations, and strategic partnerships
 - Supported early-stage ventures across incubation and growth phases

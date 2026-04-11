@@ -82,6 +82,16 @@ I operate at the intersection of AI systems engineering, backend infrastructure,
 
 ---
 
+## Achievements
+
+- **SIH 2024 Winner** — Smart India Hackathon, national-level competition
+- **3x National Hackathon Winner** — Consistent top finishes across AI/ML and systems tracks
+- **CEEC 2024** — Research presentation at San Diego State University
+- **450+ LeetCode Problems** — Strong foundations in DSA and problem solving
+- **Amazon ML Summer School 2025**
+
+---
+
 ## Certifications
 
 - Google Professional Cloud Developer — Google Cloud
@@ -102,10 +112,3 @@ I operate at the intersection of AI systems engineering, backend infrastructure,
 </p>
 
 ---
-
-## Achievements
-
-- **SIH 2024 Winner** — Smart India Hackathon, national-level competition
-- **3x National Hackathon Winner** — Consistent top finishes across AI/ML and systems tracks
-- **CEEC 2024** — Research presentation at San Diego State University
-- **450+ LeetCode Problems** — Strong foundations in DSA and problem solving

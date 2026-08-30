@@ -14,6 +14,7 @@
   <a href="https://shritijreddy.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Shrithu10&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -22,7 +23,7 @@
 
 I build production-grade intelligent systems — multi-agent architectures, LLM orchestration, and speech pipelines — along with the systems infrastructure they run on, from matching engines to distributed databases written from scratch.
 
-Currently an **Applied Scientist Intern at Amazon**, working to bridge research-stage methods with production implementations. Previously shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
+Previously an **Applied Scientist Intern at Amazon**, bridging research-stage methods with production implementations. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
 
 ---
 
@@ -38,25 +39,12 @@ Currently an **Applied Scientist Intern at Amazon**, working to bridge research-
 
 ---
 
-## Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[hft-lob-engine](https://github.com/Shrithu10/hft-lob-engine)** | Limit order book matching engine — zero allocation, 3-instruction best bid/ask via hierarchical bitmap, ~25M orders/sec at ~40 ns each | C++17 |
-| **[distributed-database](https://github.com/Shrithu10/distributed-database)** | From-scratch distributed KV store: WAL + Bitcask storage engine, Raft consensus, sharded range routing, MVCC transactions | Python |
-| **[event-streaming-system](https://github.com/Shrithu10/event-streaming-system)** | Kafka-style event streaming built on Java NIO — non-blocking I/O, custom binary wire protocol, append-only log storage | Java |
-| **[aetherproxy](https://github.com/Shrithu10/aetherproxy)** | Drop-in OpenAI-compatible AI gateway — semantic caching, intelligent routing, safety guardrails, speculative racing | Python / FastAPI |
-| **[llm-grpo-training](https://github.com/Shrithu10/llm-grpo-training)** | RLVR self-correction reasoning framework — GRPO training with dense, decomposed verifiable rewards on a single GPU | Python / PyTorch |
-| **[AutoDev-AI](https://github.com/Shrithu10/AutoDev-AI)** | Multi-agent system that turns a plain-English idea into a working, tested, deployable app | Python / LangGraph |
-
----
-
 ## Experience
 
 **Applied Scientist Intern — Amazon**
-*Jan 2026 – Present*
-- Working on applied AI systems and scalable solutions across Amazon's science org
-- Bridging research-stage methods with production-ready implementations
+*Jan 2026 – Jun 2026*
+- Worked on applied AI systems and scalable solutions across Amazon's science org
+- Bridged research-stage methods with production-ready implementations
 
 **Generative AI Intern — Techolution**
 *May 2025 – Jan 2026*
@@ -112,12 +100,40 @@ Currently an **Applied Scientist Intern at Amazon**, working to bridge research-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrithu10&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrithu10&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrithu10&theme=minimal&hide_border=true&area=true" width="95%" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com/?user=Shrithu10&hide_border=true&theme=default" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrithu10&theme=github-light&hide_border=true&area=true" width="95%" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrithu10&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="95%" alt="Trophies" />
+</p>
+
+### Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrithu10&theme=default" width="95%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrithu10&theme=default" height="185" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrithu10&theme=default" height="185" alt="Most-used language by commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrithu10&theme=default" height="185" alt="Contribution stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrithu10&theme=default&utcOffset=5.5" height="185" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://githubcard.com/Shrithu10.svg" width="95%" alt="GitHub card" />
 </p>
 
 ---

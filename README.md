@@ -26,7 +26,7 @@
 
 I build production-grade intelligent systems — multi-agent architectures, LLM orchestration, and speech pipelines — along with the systems infrastructure they run on, from matching engines to distributed databases written from scratch.
 
-Joining **Amazon as an Applied Scientist** in November 2026, after interning there as an Applied Scientist. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
+Applied Scientist at **Amazon**, where I started as an Applied Scientist intern. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
 
 **Building:** [Upsolve Club](https://www.upsolveclub.com) — contests for your coding circle across LeetCode, Codeforces and GitHub.
 
@@ -47,12 +47,12 @@ Joining **Amazon as an Applied Scientist** in November 2026, after interning the
 ## Experience
 
 **Applied Scientist — Amazon**
-*Starting Nov 2026*
+*Nov 2026 – Present*
 
-**Part-time Research Assistant — Independent Research (with Dr Ranjan Satapathy)**
+**Part-time Research Assistant — Independent Research**
 *Sep 2026 – Nov 2026*
 - Designed a black-box benchmark to test whether LLM explanations reflect their real decision process, applicable to closed API models
-- Evaluated 7 LLMs on 300 financial news sentences (~70,000 API calls) through a reproducible Python pipeline
+- Evaluated 7 LLMs on 300 financial news sentences through a reproducible Python pipeline
 
 **Applied Scientist Intern — Amazon**
 *Jan 2026 – Jun 2026*

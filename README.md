@@ -28,6 +28,8 @@ I build production-grade intelligent systems — multi-agent architectures, LLM 
 
 Applied Scientist at **Amazon**, where I started as an Applied Scientist intern. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
 
+I care about clean engineering, honest evaluation and building things people actually use.
+
 **Building:** [Upsolve Club](https://www.upsolveclub.com) — contests for your coding circle across LeetCode, Codeforces and GitHub.
 
 ---

@@ -1,10 +1,13 @@
-<h1 align="center">Shritij Reddy</h1>
+<h1 align="center">Shritij Reddy Ramidi</h1>
 
 <p align="center">
   Applied AI engineer — I build production intelligent systems and the low-level infrastructure underneath them.
 </p>
 
 <p align="center">
+  <a href="https://shrithu10.github.io/personal-website/">
+    <img src="https://img.shields.io/badge/Website-161513?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/shritij-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,7 +26,9 @@
 
 I build production-grade intelligent systems — multi-agent architectures, LLM orchestration, and speech pipelines — along with the systems infrastructure they run on, from matching engines to distributed databases written from scratch.
 
-Previously an **Applied Scientist Intern at Amazon**, bridging research-stage methods with production implementations. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
+Joining **Amazon as an Applied Scientist** in November 2026, after interning there as an Applied Scientist. Before that I shipped generative-AI products at **Techolution** and ran entrepreneurship research at **IIT Hyderabad** (presented at CEEC 2024, San Diego State University).
+
+**Building:** [Upsolve Club](https://www.upsolveclub.com) — contests for your coding circle across LeetCode, Codeforces and GitHub.
 
 ---
 
@@ -41,10 +46,20 @@ Previously an **Applied Scientist Intern at Amazon**, bridging research-stage me
 
 ## Experience
 
+**Applied Scientist — Amazon**
+*Starting Nov 2026*
+
+**Part-time Research Assistant — Independent Research (with Dr Ranjan Satapathy)**
+*Sep 2026 – Nov 2026*
+- Designed a black-box benchmark to test whether LLM explanations reflect their real decision process, applicable to closed API models
+- Evaluated 7 LLMs on 300 financial news sentences (~70,000 API calls) through a reproducible Python pipeline
+
 **Applied Scientist Intern — Amazon**
 *Jan 2026 – Jun 2026*
-- Worked on applied AI systems and scalable solutions across Amazon's science org
-- Bridged research-stage methods with production-ready implementations
+- Contributed to an image-similarity pipeline for document deduplication, using feature matching and correspondence estimation across millions of document images
+- Designed an SOP for image quality detection, defining the end-to-end verification workflow and evaluating architectures for automated quality assessment at scale
+- Worked on a router-based approach for cross-token knowledge distillation from a teacher model to a student model
+- Analysed accuracy vs. latency trade-offs across model configurations to support production integration decisions
 
 **Generative AI Intern — Techolution**
 *May 2025 – Jan 2026*
@@ -58,10 +73,10 @@ Previously an **Applied Scientist Intern at Amazon**, bridging research-stage me
 - Researched Lean Startup methodology and Design Thinking applied to deep-tech ventures
 - Presented findings at CEEC 2024, San Diego State University
 
-**Corporate Innovation Intern — T-Hub | AIC IIIT Kottayam | RA Services**
+**Corporate Innovation Intern — T-Hub | AIC IIIT Kottayam**
 *2022 – 2024*
-- Worked across startup ecosystems, innovation programs, operations, and strategic partnerships
-- Supported early-stage ventures through incubation and growth phases
+- Worked across startup ecosystems, innovation programs, and corporate engagement
+- Supported early-stage ventures through incubation
 
 ---
 
@@ -81,11 +96,13 @@ Previously an **Applied Scientist Intern at Amazon**, bridging research-stage me
 
 ## Achievements
 
-- **SIH 2024 Winner** — Smart India Hackathon, national-level competition
+- **SIH 2024 Winner** — Smart India Hackathon, 1st nationally (6,000+ teams)
 - **3x National Hackathon Winner** — top finishes across AI/ML and systems tracks
+- **Rakathon 2024 Finalist** — Top 100 of 6,500 teams
 - **Amazon ML Summer School 2025**
 - **CEEC 2024** — research presentation at San Diego State University
-- **450+ LeetCode problems solved**
+- **GirlScript Summer of Code Mentor** — technical reviewer for open-source projects
+- **480+ LeetCode problems solved**
 
 ---
 
@@ -100,23 +117,8 @@ Previously an **Applied Scientist Intern at Amazon**, bridging research-stage me
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrithu10&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrithu10&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shrithu10&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrithu10&theme=github-light&hide_border=true&area=true" width="95%" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrithu10&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="95%" alt="Trophies" />
-</p>
-
-### Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrithu10&theme=default" width="95%" alt="Profile details" />
@@ -131,9 +133,3 @@ Previously an **Applied Scientist Intern at Amazon**, bridging research-stage me
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrithu10&theme=default" height="185" alt="Contribution stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrithu10&theme=default&utcOffset=5.5" height="185" alt="Productive time" />
 </p>
-
-<p align="center">
-  <img src="https://githubcard.com/Shrithu10.svg" width="95%" alt="GitHub card" />
-</p>
-
----

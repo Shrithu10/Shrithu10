@@ -53,8 +53,9 @@ I care about clean engineering, honest evaluation and building things people act
 
 **Part-time Research Assistant — Independent Research**
 *Sep 2026 – Nov 2026*
-- Designed a black-box benchmark to test whether LLM explanations reflect their real decision process, applicable to closed API models
-- Evaluated 7 LLMs on 300 financial news sentences through a reproducible Python pipeline
+- Built a black-box audit that tests whether the reasons an LLM cites actually drive its decision, applicable to closed API models
+- Validated it against three kinds of ground truth; it tracks the models' internal causal evidence better than an existing white-box metric
+- Audited 7 commercial LLMs on financial sentiment, fact checking and social media text. Open-source package in progress
 
 **Applied Scientist Intern — Amazon**
 *Jan 2026 – Jun 2026*
